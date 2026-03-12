@@ -1,0 +1,9 @@
+[project]
+name = "patient-mcp-server"
+version = "1.0.0"
+description = "MCP server for querying patient data via Claude Desktop"
+requires-python = ">=3.10"
+dependencies = [
+    "mcp[cli]",
+]
+

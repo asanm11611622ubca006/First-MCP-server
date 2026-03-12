@@ -1,0 +1,201 @@
+patient_id,name,age,gender,disease
+1,Robert Mitchell,53,Male,Heart Disease
+2,Thomas Mitchell,31,Male,COPD
+3,Brandon Ramirez,22,Male,Diabetes
+4,Mark Anderson,82,Male,Obesity
+5,Justin Gonzalez,87,Male,Chronic Kidney Disease
+6,Jacob Nguyen,53,Male,Thyroid Disorder
+7,Daniel Hall,72,Male,Cancer
+8,Karen Wilson,61,Female,Hypertension
+9,Edward Miller,63,Male,Anemia
+10,Nicole Taylor,23,Female,Migraine
+11,Anna Davis,66,Female,Hypertension
+12,Helen White,42,Female,Migraine
+13,John Nelson,47,Male,Thyroid Disorder
+14,Elizabeth Anderson,30,Female,Chronic Kidney Disease
+15,Cynthia Green,64,Female,Asthma
+16,Amanda Wilson,52,Female,Migraine
+17,Benjamin Green,39,Male,Alzheimer's Disease
+18,Daniel Robinson,66,Male,Arthritis
+19,Brian Roberts,25,Male,Heart Disease
+20,Brian Sanchez,52,Male,Hypertension
+21,Scott Rivera,58,Male,Heart Disease
+22,Stephanie Adams,76,Female,Asthma
+23,Sarah Thomas,89,Female,Alzheimer's Disease
+24,Emma Ramirez,69,Female,Cancer
+25,Thomas Allen,81,Male,Hypertension
+26,Joseph Martinez,38,Male,Thyroid Disorder
+27,Nicole Jones,67,Female,Chronic Kidney Disease
+28,Shirley Taylor,88,Female,Anemia
+29,Joseph Baker,86,Male,Thyroid Disorder
+30,Carol Davis,55,Female,Chronic Kidney Disease
+31,Nicholas Smith,51,Male,Alzheimer's Disease
+32,Jonathan Miller,56,Male,Anemia
+33,Christopher White,38,Male,Alzheimer's Disease
+34,Benjamin Lee,80,Male,Diabetes
+35,Ronald Martin,48,Male,Diabetes
+36,Scott Garcia,28,Male,Migraine
+37,Barbara Carter,86,Female,Thyroid Disorder
+38,Thomas Nelson,78,Male,Alzheimer's Disease
+39,Paul King,72,Male,Heart Disease
+40,Kevin Sanchez,65,Male,Depression
+41,Jessica Thomas,46,Female,Hypertension
+42,Patricia Nguyen,88,Female,Heart Disease
+43,James Jones,25,Male,Heart Disease
+44,John Perez,27,Male,Alzheimer's Disease
+45,Joshua Nelson,80,Male,Heart Disease
+46,Scott Torres,78,Male,Heart Disease
+47,Rebecca Gonzalez,30,Female,Hypertension
+48,Amanda Ramirez,70,Female,Depression
+49,Richard Brown,69,Male,Migraine
+50,Susan Thomas,42,Female,Heart Disease
+51,Sarah Ramirez,41,Female,Arthritis
+52,Ashley Jones,74,Female,Thyroid Disorder
+53,Michael Adams,87,Male,Anemia
+54,William Carter,48,Male,Asthma
+55,Amy Walker,45,Female,Anemia
+56,Linda Hernandez,66,Female,Diabetes
+57,Dorothy Robinson,54,Female,Chronic Kidney Disease
+58,Karen Gonzalez,55,Female,Heart Disease
+59,Brandon Mitchell,87,Male,Diabetes
+60,Linda Brown,79,Female,Alzheimer's Disease
+61,Michael Allen,28,Male,Anemia
+62,David Hill,26,Male,COPD
+63,Jason Davis,90,Male,Heart Disease
+64,Samuel Garcia,71,Male,COPD
+65,Dorothy Wilson,58,Female,Heart Disease
+66,Stephanie Rodriguez,56,Female,Depression
+67,Barbara Smith,76,Female,Obesity
+68,David Wright,45,Male,Alzheimer's Disease
+69,Sarah Thompson,26,Female,Pneumonia
+70,Ronald Jackson,38,Male,Depression
+71,Helen Adams,85,Female,Diabetes
+72,Susan Rodriguez,51,Female,Hypertension
+73,Justin Martinez,52,Male,Arthritis
+74,George Wilson,51,Male,Alzheimer's Disease
+75,Dorothy Brown,29,Female,COPD
+76,Kimberly Williams,18,Female,Cancer
+77,Paul Hernandez,74,Male,Alzheimer's Disease
+78,Brenda Smith,32,Female,Hypertension
+79,Larry Williams,65,Male,Obesity
+80,Ryan Rodriguez,23,Male,Arthritis
+81,Jennifer Thompson,44,Female,COPD
+82,Richard Thompson,89,Male,Pneumonia
+83,Helen Mitchell,37,Female,Pneumonia
+84,Daniel Lopez,70,Male,Diabetes
+85,George Clark,49,Male,Arthritis
+86,Richard Harris,22,Male,Anemia
+87,Sandra Gonzalez,76,Female,Cancer
+88,Sandra Anderson,21,Female,COPD
+89,Jason Perez,53,Male,Anemia
+90,Joshua Thompson,83,Male,Chronic Kidney Disease
+91,Patricia Davis,51,Female,Asthma
+92,Jennifer Miller,73,Female,Cancer
+93,Sharon Hill,83,Female,Hypertension
+94,Pamela Gonzalez,50,Female,Diabetes
+95,Mary King,86,Female,COPD
+96,Ronald Ramirez,26,Male,COPD
+97,Helen Lee,33,Female,Migraine
+98,Angela Martin,70,Female,Cancer
+99,Emily Scott,34,Female,Heart Disease
+100,Deborah Baker,40,Female,Obesity
+101,Stephanie Scott,18,Female,Arthritis
+102,Margaret Ramirez,59,Female,Depression
+103,Laura Baker,45,Female,Alzheimer's Disease
+104,Lisa Nelson,28,Female,Arthritis
+105,Elizabeth Carter,48,Female,COPD
+106,Sandra Gonzalez,36,Female,Diabetes
+107,Andrew Walker,27,Male,Depression
+108,Pamela Gonzalez,67,Female,Depression
+109,Ashley Martinez,18,Female,Pneumonia
+110,Ryan Anderson,40,Male,Thyroid Disorder
+111,Linda Scott,49,Female,Pneumonia
+112,Nicholas Rodriguez,77,Male,COPD
+113,Laura Flores,82,Female,Chronic Kidney Disease
+114,Lisa Mitchell,78,Female,Depression
+115,Ashley Green,53,Female,Thyroid Disorder
+116,Ashley Moore,74,Female,Hypertension
+117,Ashley Moore,60,Female,Cancer
+118,Thomas Martinez,47,Male,Chronic Kidney Disease
+119,Mark Jones,71,Male,Chronic Kidney Disease
+120,Anna Robinson,71,Female,Diabetes
+121,Jeffrey Harris,20,Male,Anemia
+122,Kathleen Smith,63,Female,Arthritis
+123,Rebecca Wright,87,Female,Thyroid Disorder
+124,Eric Anderson,52,Male,Chronic Kidney Disease
+125,Patricia Harris,61,Female,COPD
+126,Lisa Robinson,34,Female,Obesity
+127,Jason Nguyen,90,Male,COPD
+128,William Adams,72,Male,Asthma
+129,Nancy Brown,51,Female,Chronic Kidney Disease
+130,Margaret Robinson,59,Female,Cancer
+131,Kimberly Carter,71,Female,Arthritis
+132,Gary Johnson,87,Male,Diabetes
+133,Sandra Adams,26,Female,Thyroid Disorder
+134,Robert Thomas,43,Male,Anemia
+135,Samuel Martinez,48,Male,Asthma
+136,Jessica Torres,45,Female,Depression
+137,Melissa Hernandez,32,Female,Thyroid Disorder
+138,Kevin Miller,21,Male,Pneumonia
+139,Pamela Baker,66,Female,Chronic Kidney Disease
+140,David Nguyen,49,Male,Hypertension
+141,Nicole Davis,90,Female,Thyroid Disorder
+142,Timothy Wright,72,Male,COPD
+143,Barbara Allen,61,Female,Diabetes
+144,Amy Miller,73,Female,Cancer
+145,Karen Ramirez,40,Female,Migraine
+146,Helen Wright,79,Female,Depression
+147,Emma Moore,59,Female,Anemia
+148,William Moore,75,Male,Heart Disease
+149,Pamela Flores,66,Female,Cancer
+150,Eric Lee,41,Male,Depression
+151,Timothy Taylor,61,Male,Arthritis
+152,Brenda Smith,84,Female,Heart Disease
+153,Andrew Campbell,70,Male,Depression
+154,Gary Adams,80,Male,Depression
+155,William Jackson,46,Male,Chronic Kidney Disease
+156,Kevin Nelson,65,Male,Depression
+157,Sharon Mitchell,88,Female,Cancer
+158,Cynthia Moore,57,Female,Arthritis
+159,Joseph Campbell,42,Male,Cancer
+160,Larry Carter,41,Male,Heart Disease
+161,Gary Moore,85,Male,Obesity
+162,Susan Gonzalez,55,Female,Heart Disease
+163,Nancy Martin,19,Female,Migraine
+164,Joshua Williams,24,Male,Alzheimer's Disease
+165,Sarah Green,80,Female,Hypertension
+166,Scott Jackson,78,Male,Depression
+167,Carol Lopez,24,Female,Arthritis
+168,Jessica Jones,69,Female,Depression
+169,Scott Green,24,Male,Asthma
+170,Scott Martin,28,Male,Heart Disease
+171,Justin Carter,71,Male,Obesity
+172,Stephen Harris,75,Male,Pneumonia
+173,Donna Nguyen,72,Female,Arthritis
+174,Samuel Mitchell,30,Male,Thyroid Disorder
+175,Mark Taylor,28,Male,Asthma
+176,Matthew Scott,27,Male,Asthma
+177,Jeffrey Lewis,78,Male,Arthritis
+178,Steven Jackson,54,Male,Migraine
+179,Barbara Baker,47,Female,Pneumonia
+180,Emma Nelson,43,Female,Chronic Kidney Disease
+181,Larry Anderson,37,Male,Pneumonia
+182,Karen Jones,25,Female,Asthma
+183,Nicole Mitchell,90,Female,Pneumonia
+184,Laura Davis,77,Female,Migraine
+185,Stephanie Moore,82,Female,Alzheimer's Disease
+186,Laura Garcia,23,Female,Pneumonia
+187,Michelle Hill,50,Female,Diabetes
+188,Steven Baker,20,Male,Thyroid Disorder
+189,Pamela Williams,40,Female,Depression
+190,Kimberly Lopez,73,Female,COPD
+191,Elizabeth Walker,62,Female,Chronic Kidney Disease
+192,Michelle Nelson,31,Female,Anemia
+193,George Clark,81,Male,Arthritis
+194,Brenda Williams,76,Female,Hypertension
+195,Dorothy Lee,32,Female,Thyroid Disorder
+196,Angela Smith,87,Female,Depression
+197,Linda Gonzalez,84,Female,Cancer
+198,Laura Carter,24,Female,Heart Disease
+199,Brenda Rodriguez,54,Female,Depression
+200,Jessica Johnson,48,Female,Migraine
